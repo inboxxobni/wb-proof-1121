@@ -62,7 +62,7 @@
     "ws": "8.21.3"
   },
   "acryl": {
-    "from": "acrylblends.link-shortener#0.1.2"
+    "from": "github:inboxxobni/wb-proof-1121#v0.1.1"
   },
   "overrides": {
     "@deepseek-ai/libreoffice-kit-darwin-arm64": "npm:@acryldev/absent@1.0.1",
